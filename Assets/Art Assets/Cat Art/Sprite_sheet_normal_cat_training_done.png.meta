@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: e1dcdb06477854b47bf446a7eaffce68
+timeCreated: 1488275253
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_sheet_normal_cat_training_done_0
+    21300002: Sprite_sheet_normal_cat_training_done_1
+    21300004: Sprite_sheet_normal_cat_training_done_2
+    21300006: Sprite_sheet_normal_cat_training_done_3
+    21300008: Sprite_sheet_normal_cat_training_done_4
+    21300010: Sprite_sheet_normal_cat_training_done_5
+    21300012: Sprite_sheet_normal_cat_training_done_6
+    21300014: Sprite_sheet_normal_cat_training_done_7
+    21300016: Sprite_sheet_normal_cat_training_done_8
+    21300018: Sprite_sheet_normal_cat_training_done_9
+    21300020: Sprite_sheet_normal_cat_training_done_10
+    21300022: Sprite_sheet_normal_cat_training_done_11
+    21300024: Sprite_sheet_normal_cat_training_done_12
+    21300026: Sprite_sheet_normal_cat_training_done_13
+    21300028: Sprite_sheet_normal_cat_training_done_14
+    21300030: Sprite_sheet_normal_cat_training_done_15
+    21300032: Sprite_sheet_normal_cat_training_done_16
+    21300034: Sprite_sheet_normal_cat_training_done_17
+    21300036: Sprite_sheet_normal_cat_training_done_18
+    21300038: Sprite_sheet_normal_cat_training_done_19
+    21300040: Sprite_sheet_normal_cat_training_done_20
+    21300042: Sprite_sheet_normal_cat_training_done_21
+    21300044: Sprite_sheet_normal_cat_training_done_22
+    21300046: Sprite_sheet_normal_cat_training_done_23
+    21300048: Sprite_sheet_normal_cat_training_done_24
+    21300050: Sprite_sheet_normal_cat_training_done_25
+    21300052: Sprite_sheet_normal_cat_training_done_26
+    21300054: Sprite_sheet_normal_cat_training_done_27
+    21300056: Sprite_sheet_normal_cat_training_done_28
+    21300058: Sprite_sheet_normal_cat_training_done_29
+    21300060: Sprite_sheet_normal_cat_training_done_30
+    21300062: Sprite_sheet_normal_cat_training_done_31
+    21300064: Sprite_sheet_normal_cat_training_done_32
+    21300066: Sprite_sheet_normal_cat_training_done_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_6
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1890
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_12
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_14
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_15
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1300
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 719
+        width: 370
+        height: 558
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 719
+        width: 370
+        height: 562
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_20
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 727
+        width: 370
+        height: 554
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_21
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 723
+        width: 370
+        height: 558
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 723
+        width: 370
+        height: 558
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_23
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 723
+        width: 370
+        height: 558
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_24
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 727
+        width: 370
+        height: 550
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_sheet_normal_cat_training_done_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 370
+        height: 554
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

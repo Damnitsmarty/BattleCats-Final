@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 1f3beb5a37f041642bf86705e41d15dd
+timeCreated: 1477866440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arcBallsR
+    100002: arcBallW
+    100004: arcCue 001
+    100006: arcCue 002
+    100008: arcCue 003
+    100010: arcCue 006
+    100012: arcCue004
+    100014: arcCue005
+    100016: arcGame 001
+    100018: arcGame 001 1
+    100020: arcGame 002
+    100022: arcGame 002 1
+    100024: arcLightFit
+    100026: arcPad 001
+    100028: arcPad 002
+    100030: arcPicture
+    100032: arcPool
+    100034: arcPoolTable
+    100036: arcRug
+    100038: arcStick 001
+    100040: arcStick 002
+    100042: //RootNode
+    100044: rmArcade
+    100046: rmArcExterior
+    400000: arcBallsR
+    400002: arcBallW
+    400004: arcCue 001
+    400006: arcCue 002
+    400008: arcCue 003
+    400010: arcCue 006
+    400012: arcCue004
+    400014: arcCue005
+    400016: arcGame 001
+    400018: arcGame 001 1
+    400020: arcGame 002
+    400022: arcGame 002 1
+    400024: arcLightFit
+    400026: arcPad 001
+    400028: arcPad 002
+    400030: arcPicture
+    400032: arcPool
+    400034: arcPoolTable
+    400036: arcRug
+    400038: arcStick 001
+    400040: arcStick 002
+    400042: rmArcade
+    400044: //RootNode
+    400046: rmArcExterior
+    2300000: arcBallsR
+    2300002: arcBallW
+    2300004: arcCue 001
+    2300006: arcCue 002
+    2300008: arcCue 003
+    2300010: arcCue 006
+    2300012: arcCue004
+    2300014: arcCue005
+    2300016: arcGame 001 1
+    2300018: arcGame 002 1
+    2300020: arcLightFit
+    2300022: arcPad 001
+    2300024: arcPad 002
+    2300026: arcPicture
+    2300028: arcPool
+    2300030: arcRug
+    2300032: arcStick 001
+    2300034: arcStick 002
+    2300036: rmArcade
+    2300038: rmArcExterior
+    3300000: arcBallsR
+    3300002: arcBallW
+    3300004: arcCue 001
+    3300006: arcCue 002
+    3300008: arcCue 003
+    3300010: arcCue 006
+    3300012: arcCue004
+    3300014: arcCue005
+    3300016: arcGame 001 1
+    3300018: arcGame 002 1
+    3300020: arcLightFit
+    3300022: arcPad 001
+    3300024: arcPad 002
+    3300026: arcPicture
+    3300028: arcPool
+    3300030: arcRug
+    3300032: arcStick 001
+    3300034: arcStick 002
+    3300036: rmArcade
+    3300038: rmArcExterior
+    4300000: rmArcExterior
+    4300002: rmArcade
+    4300004: arcLightFit
+    4300006: arcRug
+    4300008: arcCue 003
+    4300010: arcCue004
+    4300012: arcCue005
+    4300014: arcCue 006
+    4300016: arcPicture
+    4300018: arcGame 001
+    4300020: arcPad 001
+    4300022: arcStick 001
+    4300024: arcGame 002
+    4300026: arcPad 002
+    4300028: arcStick 002
+    4300030: arcPool
+    4300032: arcCue 002
+    4300034: arcCue 001
+    4300036: arcBallsR
+    4300038: arcBallW
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

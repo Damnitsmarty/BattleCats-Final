@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 2cf65b9fc8fcc434789bcea18976dccb
+timeCreated: 1480985641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: ChairLeg01
+    100004: CoffeSign
+    100006: Crate_FEnce
+    100008: Crate_FEnce001
+    100010: Crate_FEnce002
+    100012: Crate_FEnce003
+    100014: Cup
+    100016: lables
+    100018: Nossle
+    100020: rmWaiting
+    100022: //RootNode
+    100024: rmWaitingExterior
+    100026: Sofa
+    100028: sofa chair
+    100030: SofaLeg04
+    100032: waitChair
+    100034: waitCoffeMachine
+    100036: WaitCrate001
+    100038: WaitCrate002
+    100040: WaitCrate003
+    100042: WaitCrate004
+    100044: waitLampStand
+    100046: waitLightFixture
+    100048: waitRug
+    100050: waitSofa
+    100052: waitTable
+    400000: Box001
+    400002: ChairLeg01
+    400004: CoffeSign
+    400006: Crate_FEnce
+    400008: Crate_FEnce001
+    400010: Crate_FEnce002
+    400012: Crate_FEnce003
+    400014: Cup
+    400016: lables
+    400018: Nossle
+    400020: rmWaiting
+    400022: //RootNode
+    400024: rmWaitingExterior
+    400026: Sofa
+    400028: sofa chair
+    400030: SofaLeg04
+    400032: waitChair
+    400034: waitCoffeMachine
+    400036: WaitCrate001
+    400038: WaitCrate002
+    400040: WaitCrate003
+    400042: WaitCrate004
+    400044: waitLampStand
+    400046: waitLightFixture
+    400048: waitRug
+    400050: waitSofa
+    400052: waitTable
+    2300000: Box001
+    2300002: ChairLeg01
+    2300004: CoffeSign
+    2300006: Crate_FEnce
+    2300008: Crate_FEnce001
+    2300010: Crate_FEnce002
+    2300012: Crate_FEnce003
+    2300014: Cup
+    2300016: lables
+    2300018: Nossle
+    2300020: rmWaiting
+    2300022: rmWaitingExterior
+    2300024: SofaLeg04
+    2300026: waitChair
+    2300028: waitCoffeMachine
+    2300030: WaitCrate001
+    2300032: WaitCrate002
+    2300034: WaitCrate003
+    2300036: WaitCrate004
+    2300038: waitLampStand
+    2300040: waitLightFixture
+    2300042: waitRug
+    2300044: waitSofa
+    2300046: waitTable
+    3300000: Box001
+    3300002: ChairLeg01
+    3300004: CoffeSign
+    3300006: Crate_FEnce
+    3300008: Crate_FEnce001
+    3300010: Crate_FEnce002
+    3300012: Crate_FEnce003
+    3300014: Cup
+    3300016: lables
+    3300018: Nossle
+    3300020: rmWaiting
+    3300022: rmWaitingExterior
+    3300024: SofaLeg04
+    3300026: waitChair
+    3300028: waitCoffeMachine
+    3300030: WaitCrate001
+    3300032: WaitCrate002
+    3300034: WaitCrate003
+    3300036: WaitCrate004
+    3300038: waitLampStand
+    3300040: waitLightFixture
+    3300042: waitRug
+    3300044: waitSofa
+    3300046: waitTable
+    4300000: rmWaitingExterior
+    4300002: waitLightFixture
+    4300004: waitRug
+    4300006: SofaLeg04
+    4300008: waitSofa
+    4300010: ChairLeg01
+    4300012: waitChair
+    4300014: waitLampStand
+    4300016: waitTable
+    4300018: WaitCrate004
+    4300020: Crate_FEnce
+    4300022: rmWaiting
+    4300024: CoffeSign
+    4300026: Cup
+    4300028: lables
+    4300030: Nossle
+    4300032: waitCoffeMachine
+    4300034: Box001
+    4300036: WaitCrate001
+    4300038: Crate_FEnce001
+    4300040: WaitCrate002
+    4300042: Crate_FEnce002
+    4300044: WaitCrate003
+    4300046: Crate_FEnce003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

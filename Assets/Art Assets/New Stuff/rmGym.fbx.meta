@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: f30a5f1a773b67a479466f8f03a5fd25
+timeCreated: 1477866411
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gymBag
+    100002: gymBarS 001
+    100004: gymBarS 002
+    100006: gymBarS 003
+    100008: gymBarS 004
+    100010: gymBarS 005
+    100012: gymBarS 006
+    100014: gymBench
+    100016: gymBenchLeg
+    100018: gymBenchStrut
+    100020: gymChain
+    100022: gymDunbell 001
+    100024: gymDunbell 002
+    100026: gymDunbell 003
+    100028: gymDunbell 004
+    100030: gymDunbell 005
+    100032: gymDunbell 006
+    100034: gymLightFit
+    100036: gymMatt
+    100038: gymPoster
+    100040: gymPunchBag
+    100042: gymTread
+    100044: gymWeightBar
+    100046: gymWeightBench
+    100048: gymWeightL 001
+    100050: gymWeightL 002
+    100052: gymWeightM 001
+    100054: gymWeightM 002
+    100056: gymWeightS 001
+    100058: gymWeightS 002
+    100060: gymWeightVS 001
+    100062: gymWeightVS 002
+    100064: gymWeightVS 003
+    100066: gymWeightVS 004
+    100068: gymWeightVS 005
+    100070: gymWeightVS 006
+    100072: gymWeightVS 007
+    100074: gymWeightVS 008
+    100076: gymWeightVS 009
+    100078: gymWeightVS 010
+    100080: gymWeightVS 011
+    100082: gymWeightVS 012
+    100084: gymWieghtBar
+    100086: rmGym
+    100088: //RootNode
+    100090: rmGymExterior
+    400000: gymBag
+    400002: gymBarS 001
+    400004: gymBarS 002
+    400006: gymBarS 003
+    400008: gymBarS 004
+    400010: gymBarS 005
+    400012: gymBarS 006
+    400014: gymBench
+    400016: gymBenchLeg
+    400018: gymBenchStrut
+    400020: gymChain
+    400022: gymDunbell 001
+    400024: gymDunbell 002
+    400026: gymDunbell 003
+    400028: gymDunbell 004
+    400030: gymDunbell 005
+    400032: gymDunbell 006
+    400034: gymLightFit
+    400036: gymMatt
+    400038: gymPoster
+    400040: gymPunchBag
+    400042: gymTread
+    400044: gymWeightBar
+    400046: gymWeightBench
+    400048: gymWeightL 001
+    400050: gymWeightL 002
+    400052: gymWeightM 001
+    400054: gymWeightM 002
+    400056: gymWeightS 001
+    400058: gymWeightS 002
+    400060: gymWeightVS 001
+    400062: gymWeightVS 002
+    400064: gymWeightVS 003
+    400066: gymWeightVS 004
+    400068: gymWeightVS 005
+    400070: gymWeightVS 006
+    400072: gymWeightVS 007
+    400074: gymWeightVS 008
+    400076: gymWeightVS 009
+    400078: gymWeightVS 010
+    400080: gymWeightVS 011
+    400082: gymWeightVS 012
+    400084: gymWieghtBar
+    400086: //RootNode
+    400088: rmGym
+    400090: rmGymExterior
+    2300000: gymBag
+    2300002: gymBarS 001
+    2300004: gymBarS 002
+    2300006: gymBarS 003
+    2300008: gymBarS 004
+    2300010: gymBarS 005
+    2300012: gymBarS 006
+    2300014: gymBench
+    2300016: gymBenchLeg
+    2300018: gymBenchStrut
+    2300020: gymChain
+    2300022: gymLightFit
+    2300024: gymMatt
+    2300026: gymPoster
+    2300028: gymTread
+    2300030: gymWeightL 001
+    2300032: gymWeightL 002
+    2300034: gymWeightM 001
+    2300036: gymWeightM 002
+    2300038: gymWeightS 001
+    2300040: gymWeightS 002
+    2300042: gymWeightVS 001
+    2300044: gymWeightVS 002
+    2300046: gymWeightVS 003
+    2300048: gymWeightVS 004
+    2300050: gymWeightVS 005
+    2300052: gymWeightVS 006
+    2300054: gymWeightVS 007
+    2300056: gymWeightVS 008
+    2300058: gymWeightVS 009
+    2300060: gymWeightVS 010
+    2300062: gymWeightVS 011
+    2300064: gymWeightVS 012
+    2300066: gymWieghtBar
+    2300068: rmGym
+    2300070: rmGymExterior
+    3300000: gymBag
+    3300002: gymBarS 001
+    3300004: gymBarS 002
+    3300006: gymBarS 003
+    3300008: gymBarS 004
+    3300010: gymBarS 005
+    3300012: gymBarS 006
+    3300014: gymBench
+    3300016: gymBenchLeg
+    3300018: gymBenchStrut
+    3300020: gymChain
+    3300022: gymLightFit
+    3300024: gymMatt
+    3300026: gymPoster
+    3300028: gymTread
+    3300030: gymWeightL 001
+    3300032: gymWeightL 002
+    3300034: gymWeightM 001
+    3300036: gymWeightM 002
+    3300038: gymWeightS 001
+    3300040: gymWeightS 002
+    3300042: gymWeightVS 001
+    3300044: gymWeightVS 002
+    3300046: gymWeightVS 003
+    3300048: gymWeightVS 004
+    3300050: gymWeightVS 005
+    3300052: gymWeightVS 006
+    3300054: gymWeightVS 007
+    3300056: gymWeightVS 008
+    3300058: gymWeightVS 009
+    3300060: gymWeightVS 010
+    3300062: gymWeightVS 011
+    3300064: gymWeightVS 012
+    3300066: gymWieghtBar
+    3300068: rmGym
+    3300070: rmGymExterior
+    4300000: rmGym
+    4300002: gymPoster
+    4300004: gymLightFit
+    4300006: gymTread
+    4300008: gymMatt
+    4300010: rmGymExterior
+    4300012: gymBenchLeg
+    4300014: gymBench
+    4300016: gymBenchStrut
+    4300018: gymWieghtBar
+    4300020: gymWeightL 001
+    4300022: gymWeightM 001
+    4300024: gymWeightS 001
+    4300026: gymWeightL 002
+    4300028: gymWeightM 002
+    4300030: gymWeightS 002
+    4300032: gymChain
+    4300034: gymBag
+    4300036: gymBarS 001
+    4300038: gymWeightVS 001
+    4300040: gymWeightVS 002
+    4300042: gymBarS 002
+    4300044: gymWeightVS 003
+    4300046: gymWeightVS 004
+    4300048: gymBarS 003
+    4300050: gymWeightVS 005
+    4300052: gymWeightVS 006
+    4300054: gymBarS 004
+    4300056: gymWeightVS 008
+    4300058: gymWeightVS 007
+    4300060: gymBarS 005
+    4300062: gymWeightVS 010
+    4300064: gymWeightVS 009
+    4300066: gymBarS 006
+    4300068: gymWeightVS 011
+    4300070: gymWeightVS 012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

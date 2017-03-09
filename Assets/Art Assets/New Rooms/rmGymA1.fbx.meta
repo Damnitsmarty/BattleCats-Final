@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 851fa59341cd22942a3322da37934834
+timeCreated: 1480985648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: gymBag
+    100002: gymDunbell 001
+    100004: gymDunbell 007
+    100006: gymDunbell 008
+    100008: gymDunbell 009
+    100010: gymDunbell 010
+    100012: gymDunbell 011
+    100014: gymPunchBag
+    100016: gymTread
+    100018: gymWeightBar
+    100020: gymWeightBench
+    100022: gymWeightBench 1
+    100024: rmGym
+    100026: //RootNode
+    100028: rmGymExterior
+    400000: gymBag
+    400002: gymDunbell 001
+    400004: gymDunbell 007
+    400006: gymDunbell 008
+    400008: gymDunbell 009
+    400010: gymDunbell 010
+    400012: gymDunbell 011
+    400014: gymPunchBag
+    400016: gymTread
+    400018: gymWeightBar
+    400020: gymWeightBench
+    400022: gymWeightBench 1
+    400024: rmGym
+    400026: //RootNode
+    400028: rmGymExterior
+    2300000: gymBag
+    2300002: gymDunbell 001
+    2300004: gymDunbell 007
+    2300006: gymDunbell 008
+    2300008: gymDunbell 009
+    2300010: gymDunbell 010
+    2300012: gymDunbell 011
+    2300014: gymTread
+    2300016: gymWeightBar
+    2300018: gymWeightBench 1
+    2300020: rmGym
+    2300022: rmGymExterior
+    3300000: gymBag
+    3300002: gymDunbell 001
+    3300004: gymDunbell 007
+    3300006: gymDunbell 008
+    3300008: gymDunbell 009
+    3300010: gymDunbell 010
+    3300012: gymDunbell 011
+    3300014: gymTread
+    3300016: gymWeightBar
+    3300018: gymWeightBench 1
+    3300020: rmGym
+    3300022: rmGymExterior
+    4300000: rmGym
+    4300002: gymTread
+    4300004: rmGymExterior
+    4300006: gymBag
+    4300008: gymWeightBench
+    4300010: gymWeightBar
+    4300012: gymDunbell 001
+    4300014: gymDunbell 007
+    4300016: gymDunbell 008
+    4300018: gymDunbell 009
+    4300020: gymDunbell 010
+    4300022: gymDunbell 011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

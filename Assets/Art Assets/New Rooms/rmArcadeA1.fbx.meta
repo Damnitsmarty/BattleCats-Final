@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 90b5904e3716bd8418a14d4d0e7ce631
+timeCreated: 1480985516
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arcCue 001
+    100002: arcCue 002
+    100004: arcCue 003
+    100006: arcCue 006
+    100008: arcCue004
+    100010: arcCue005
+    100012: arcGame 001
+    100014: arcGame 003
+    100016: arcPool
+    100018: Cylinder001
+    100020: rmArcade
+    100022: //RootNode
+    100024: rmArcExterior
+    400000: arcCue 001
+    400002: arcCue 002
+    400004: arcCue 003
+    400006: arcCue 006
+    400008: arcCue004
+    400010: arcCue005
+    400012: arcGame 001
+    400014: arcGame 003
+    400016: arcPool
+    400018: Cylinder001
+    400020: rmArcade
+    400022: //RootNode
+    400024: rmArcExterior
+    2300000: arcCue 001
+    2300002: arcCue 002
+    2300004: arcCue 003
+    2300006: arcCue 006
+    2300008: arcCue004
+    2300010: arcCue005
+    2300012: arcGame 001
+    2300014: arcGame 003
+    2300016: arcPool
+    2300018: Cylinder001
+    2300020: rmArcade
+    2300022: rmArcExterior
+    3300000: arcCue 001
+    3300002: arcCue 002
+    3300004: arcCue 003
+    3300006: arcCue 006
+    3300008: arcCue004
+    3300010: arcCue005
+    3300012: arcGame 001
+    3300014: arcGame 003
+    3300016: arcPool
+    3300018: Cylinder001
+    3300020: rmArcade
+    3300022: rmArcExterior
+    4300000: rmArcExterior
+    4300002: rmArcade
+    4300004: arcCue 003
+    4300006: arcCue004
+    4300008: arcCue005
+    4300010: arcCue 006
+    4300012: arcGame 001
+    4300014: arcGame 003
+    4300016: arcPool
+    4300018: arcCue 002
+    4300020: arcCue 001
+    4300022: Cylinder001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
